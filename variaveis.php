@@ -12,3 +12,17 @@ $Nome = "JS";//são variaveis diferentes
 
 print($nome);//saida da variavel
 echo($valor);//saida da variavel
+
+$nome = 'Junior';
+$sobrenome = "Rijo";
+$sobrenome2 = "Sant´anna";
+$nome_completo = "$nome $sobrenome";
+print($nome_completo);
+
+//Operadores
+$x = 20;
+$y = 30
+$z = $x + $y;
+print($z)
+
+//Comando unset($z) remove a variável.
